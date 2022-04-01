@@ -27,6 +27,6 @@
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100004944041469"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004944041469"/></a>&nbsp
   <a href="https://www.instagram.com/cho_chang_heum/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cho_chang_heum/"/></a>&nbsp
-  <a href="whckdgma96@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=whckdgma96@gmail.com"/></a>
+  <a href="mailto:whckdgma96@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=whckdgma96@gmail.com"/></a>
 </p>
 
