@@ -5,20 +5,20 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <br/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp
+  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
+  <a href="https://palletsprojects.com/p/flask/"><img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp
   <br/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp
+  <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
  
 </p>
 <div align=center>
