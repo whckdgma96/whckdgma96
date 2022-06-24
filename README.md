@@ -19,7 +19,7 @@
   <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
-  <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>&nbsp
+  <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></a>&nbsp
  
 </p>
 <div align=center>
